@@ -2,6 +2,7 @@
 
 Anlegen einer Datenbank mit mehreren Tabellen mit dem Thema `Zoo`.
 Lernen von grundlegenden SQL Befehlen, Syntax und Arbeiten mit Tabellen in einer Datenbank.
+[LAB NOTES](LAB_NOTES.md)
 
 ---
 
